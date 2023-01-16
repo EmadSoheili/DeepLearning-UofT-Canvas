@@ -1,1 +1,1 @@
-# DeepLearning-UofT-NeuralNetworksCanvas
+# DeepLearning-UofT-Canvas
